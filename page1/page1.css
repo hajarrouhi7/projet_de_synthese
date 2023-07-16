@@ -1,0 +1,41 @@
+body{
+    background: url('page1_img/back.jpg');
+}
+p{
+    position: absolute;
+    width: 612px;
+    height: 158px;
+    left: 377px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFAC92;
+}
+button{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 590px;
+    top: 410px;
+
+    background: #FFAC92;
+    border-radius: 30px;
+    border: none;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    align-items: center;
+    text-align: center;
+    color: #1E1E1E;
+
+
+}
